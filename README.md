@@ -36,8 +36,8 @@
 - brand - название производителя товара
 
 ## Ход работы:
-- векторизация текста при помощи FastText <a href='https://nbviewer.org/github/verydirtyhands/sibur_2023/blob/main/h3ff.ipynb'>(h3ff.ipynb)</a>
-- Итоговая модель <a href='https://nbviewer.org/github/verydirtyhands/sibur_2023/blob/main/h3mf.ipynb'>(h3mf.ipynb)</a>
+- векторизация текста при помощи FastText <a href='https://nbviewer.org/github/verydirtyhands/nlp_ofd/blob/main/h3ff.ipynb'>(h3ff.ipynb)</a>
+- Итоговая модель <a href='https://nbviewer.org/github/verydirtyhands/nlp_ofd/blob/main/h3mf.ipynb'>(h3mf.ipynb)</a>
 
 ## Краткое описание проведённой работы:
 <i> 
